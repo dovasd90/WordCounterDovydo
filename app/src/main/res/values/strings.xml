@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCounterDovydo</string>
+    <string-array name="multiple_options">
+        <item>Chars</item>
+        <item>Words</item>
+    </string-array>
+</resources>
