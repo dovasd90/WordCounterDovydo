@@ -2,6 +2,15 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
+      <entry key="Given_normalText_mainAct_Charsreturn">
+        <State />
+      </entry>
+      <entry key="MainActivity">
+        <State />
+      </entry>
+      <entry key="WordCounterTests">
+        <State />
+      </entry>
       <entry key="app">
         <State />
       </entry>

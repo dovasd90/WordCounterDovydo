@@ -6,6 +6,10 @@ public class TextCounter {
     }
 
     public static int getWordsCount(String phrase){
-        return phrase.length();
+
+        String[] words = phrase.split("\\s+");
+        int count = words.length;
+
+        return count;
     }
 }
